@@ -9,4 +9,4 @@ This was developed to be used as a way to create a C2 channel at ease for Azure 
 This code is published for educational purposes and reference only.
 
 ## Blog Post
-https://app.gitbook.com/@vincentyiu/s/blog/red-team/attack-infrastructure/azure-apps-for-command-and-control
+https://vincentyiu.co.uk/red-team/attack-infrastructure/azure-apps-for-command-and-control
